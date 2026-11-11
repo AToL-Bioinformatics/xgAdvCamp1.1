@@ -1,0 +1,4 @@
+sample,assembly_type,assembly_file
+xgAdvCamp1.1,PRIMARY,${PWD}/results/genomeassembly/xgAdvCamp1.1/xgAdvCamp1.1.pacbio_hifi.purged/purging/asm.purged.fa.gz
+xgAdvCamp1.1,HAPLO,${PWD}/results/genomeassembly/xgAdvCamp1.1/xgAdvCamp1.1.pacbio_hifi.purged/purging/asm.htigs.all.fa.gz
+xgAdvCamp1.1,MITO,${PWD}/results/genomeassembly/xgAdvCamp1.1/xgAdvCamp1.1.pacbio_hifi.purged/mito/final_mitogenome.fasta

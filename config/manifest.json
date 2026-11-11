@@ -1,0 +1,28 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "xgAdvCamp1",
+  "scientific_name": "Advena campbellii",
+  "taxon_id": 3022146,
+  "busco_odb10_dataset_name": "mollusca",
+  "busco_odb12_dataset_name": "mollusca",
+  "ncbi_class": "Gastropoda",
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 5,
+  "mitohifi_reference_species": "Albinaria caerulea",
+  "oatk_hmm_name": "mollusca",
+  "genetic_code_id": 1,
+  "assembly_id": "b687f552-ad95-45bc-9e01-f249b86b799d",
+  "read_files": [
+    {
+      "name": "bpa-tsi-pacbio-hifi-687191-m84073_260330_072104_s3",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/tsi_staging/pacbio-hifi/BPAOPS-2054/20260408_TSI_AGRF_CAGRF26020240_m84073_260330_072104_s3/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-tsi-pacbio-hifi-687191-m84073_260330_072104_s3/resource/adddceb49f313ee126a4fd270b806db9/download/687191_TSI_AGRF_m84073_260330_072104_s3.ccs.bam",
+          "md5sum": "adddceb49f313ee126a4fd270b806db9"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687191-m84073_260330_072104_s3.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "xgAdvCamp1"
+scientific_name: "Advena campbellii"
+busco_lineages: "mollusca_odb10"
+taxid: 3022146

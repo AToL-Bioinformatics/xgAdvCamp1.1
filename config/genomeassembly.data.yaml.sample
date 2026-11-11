@@ -1,0 +1,5 @@
+
+- id: xgAdvCamp1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-tsi-pacbio-hifi-687191-m84073_260330_072104_s3.fastq.gz
